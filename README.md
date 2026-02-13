@@ -1,15 +1,15 @@
 ![Profile banner](https://i.imgur.com/VNP2tTx.gif)
 
 <div align="center">
-  <a href="mailto:YOUR_EMAIL@example.com">
+  <a href="mailto:abhayrusa@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/abhay-ravi-kumar-0b6447191/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="YOUR_PORTFOLIO_URL">
+  <!-- <a href="YOUR_PORTFOLIO_URL">
     <img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=macos&logoColor=white" alt="Portfolio" />
-  </a>
+  </a> -->
 </div>
 
 <br>
